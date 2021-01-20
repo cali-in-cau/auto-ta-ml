@@ -9,3 +9,11 @@ look at `requirements.txt`
 ## Execute
 
 ## License
+
+
+## actual install
+```sh
+pip install yfinance
+pip install matplotlib
+pip install --upgrade mplfinance
+```

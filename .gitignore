@@ -1,1 +1,4 @@
 auto-ta/
+datasets/
+*.ipynb
+.ipynb_checkpoints/
