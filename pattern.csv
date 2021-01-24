@@ -1,0 +1,62 @@
+pattern_code,pattern_name,label
+CDL2CROWS,Two Crows,bear
+CDL3BLACKCROWS,Three Black Crows,bear
+CDL3INSIDE,Three Inside Up/Down,both
+CDL3LINESTRIKE,Three-Line Strike,both
+CDL3OUTSIDE,Three Outside Up/Down,both
+CDL3STARSINSOUTH,Three Stars In The South,bull
+CDL3WHITESOLDIERS,Three Advancing White Soldiers,bull
+CDLABANDONEDBABY,Abandoned Baby,both
+CDLADVANCEBLOCK,Advance Block,bear
+CDLBELTHOLD,Belt-hold,both
+CDLBREAKAWAY,Breakaway,both
+CDLCLOSINGMARUBOZU,Closing Marubozu,both
+CDLCONCEALBABYSWALL,Concealing Baby Swallow,bull
+CDLCOUNTERATTACK,Counterattack,both
+CDLDARKCLOUDCOVER,Dark Cloud Cover,bear
+CDLDOJI,Doji,undefined
+CDLDOJISTAR,Doji Star,undefined
+CDLDRAGONFLYDOJI,Dragonfly Doji,both
+CDLENGULFING,Engulfing Pattern,both
+CDLEVENINGDOJISTAR,Evening Doji Star,bear
+CDLEVENINGSTAR,Evening Star,bear
+CDLGAPSIDESIDEWHITE,Up/Down-gap side-by-side white lines,both
+CDLGRAVESTONEDOJI,Gravestone Doji,bear
+CDLHAMMER,Hammer,bull
+CDLHANGINGMAN,Hanging Man,bear
+CDLHARAMI,Harami Pattern,both
+CDLHARAMICROSS,Harami Cross Pattern,both
+CDLHIGHWAVE,High-Wave Candle,undefined
+CDLHIKKAKE,Hikkake Pattern,both
+CDLHIKKAKEMOD,Modified Hikkake Pattern,both
+CDLHOMINGPIGEON,Homing Pigeon,both
+CDLIDENTICAL3CROWS,Identical Three Crows,bear
+CDLINNECK,In-Neck Pattern,undefined
+CDLINVERTEDHAMMER,Inverted Hammer,bull
+CDLKICKING,Kicking,both
+CDLKICKINGBYLENGTH,Kicking - bull/bear determined by the longer marubozu,bear
+CDLLADDERBOTTOM,Ladder Bottom,bull
+CDLLONGLEGGEDDOJI,Long Legged Doji,both
+CDLLONGLINE,Long Line Candle,undefined
+CDLMARUBOZU,Marubozu,undefined
+CDLMATCHINGLOW,Matching Low,undefined
+CDLMATHOLD,Mat Hold,both
+CDLMORNINGDOJISTAR,Morning Doji Star,bull
+CDLMORNINGSTAR,Morning Star,bull
+CDLONNECK,On-Neck Pattern,undefined
+CDLPIERCING,Piercing Pattern,bull
+CDLRICKSHAWMAN,Rickshaw Man,undefined
+CDLRISEFALL3METHODS,Rising/Falling Three Methods,undefined
+CDLSEPARATINGLINES,Separating Lines,both
+CDLSHOOTINGSTAR,Shooting Star,bear
+CDLSHORTLINE,Short Line Candle,undefined
+CDLSPINNINGTOP,Spinning Top,undefined
+CDLSTALLEDPATTERN,Stalled Pattern,undefined
+CDLSTICKSANDWICH,Stick Sandwich,bull
+CDLTAKURI,Takuri (Dragonfly Doji with very long lower shadow),bull
+CDLTASUKIGAP,Tasuki Gap,both
+CDLTHRUSTING,Thrusting Pattern,undefined
+CDLTRISTAR,Tristar Pattern,undefined
+CDLUNIQUE3RIVER,Unique 3 River,undefined
+CDLUPSIDEGAP2CROWS,Upside Gap Two Crows,bear
+CDLXSIDEGAP3METHODS,Upside/Downside Gap Three Methods,both
