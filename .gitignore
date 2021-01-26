@@ -1,5 +1,5 @@
 auto-ta/
-datasets/
+datasets/daily/
 *.ipynb
 .ipynb_checkpoints/
-tmp/
+pattern_datasets/
