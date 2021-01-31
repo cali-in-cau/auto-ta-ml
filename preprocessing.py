@@ -8,6 +8,7 @@ import talib
 from datetime import datetime
 import multiprocessing
 from multiprocessing import Pool
+from functools import partial
 import time
 
 def csv_to_func(ticker, dataset_name):
@@ -72,17 +73,13 @@ def make_chart(ticker, tmp_data, date, idx, pattern, isbull, base_path):
     #matplotlib 함수
     mpf.plot(nei_data,type='candle', style=s, savefig=savefig)
 
-def load_csv_and_run(dataset_name):
-    path = "./datasets/daily/"
-    tickers = os.listdir(path)
-    
-    for ticker in tickers:
-    #data : csv of 1 ticker
-        try:
-            print(f"processing data from {ticker}")
-            csv_to_func(ticker, dataset_name)
-        except:
-            print(f"Error occured at {ticker}")
+def load_csv_and_run(ticker):
+    dataset_name = "2016-5year-5days-nasdaqtop300"
+    try:
+        print(f"processing data from {ticker}")
+        csv_to_func(ticker, dataset_name)
+    except:
+        print(f"Error occured at {ticker}")
 
 
     #TODO:if done add compress programatically
@@ -91,18 +88,23 @@ if __name__ == "__main__":
     base_path = f'./pattern_datasets/'
     if not os.path.isdir(base_path):
         os.mkdir(base_path)
+
+    path = "./datasets/daily/"
+    tickers = os.listdir(path)
+    
     #여러가지 데이터 수집을 위한 폴더의 이름을 임
-    dataset_name = "2016-5year-5days-nasdaqtop300"
+    #dataset_name = "2016-5year-5days-nasdaqtop300"
 
     start_time = int(time.time())
 
-    # core_count = multiprocessing.cpu_count()
-    # p = Pool(core_count)
-    # p.map(load_csv_and_run, dataset_name)
-    # p.close()
-    # p.join()
+    core_count = multiprocessing.cpu_count()
+    p = Pool(core_count)
+    func = partial(load_csv_and_run)
+    p.map(func, tickers)
+    p.close()
+    p.join()
 
-    load_csv_and_run(dataset_name)
+    #load_csv_and_run(dataset_name)
     end_time = int(time.time())
     
 
