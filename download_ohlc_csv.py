@@ -4,8 +4,9 @@ import datetime as dt
 
 
 def download_ohlc_from_yahoo():
-    today = dt.datetime.today().strftime("%Y-%m-%d")
-    one_year_ago = (dt.datetime.today() - dt.timedelta(days=365)).strftime("%Y-%m-%d")
+    #today = dt.datetime.today().strftime("%Y-%m-%d")
+    today = dt.datetime(2021,1,2)
+    one_year_ago = (today - dt.timedelta(days=365 * 5)).strftime("%Y-%m-%d")
 
     with open("datasets/ticker.csv") as f:
         #in ticker, top 100 stocks in NADAQ        

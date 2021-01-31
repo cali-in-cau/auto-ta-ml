@@ -51,3 +51,9 @@ With TAlib[https://mrjbq7.github.io/ta-lib/] we tag chart patterns automatically
 ## License
 TBA
 
+## TODO
+- [] 병렬처리 속도 향상
+- [X] imagepid값 다시 부여
+- [x] 폴더 재구성
+- [] 이미지 dropout
+- [] 불필요한 정보 빼기
