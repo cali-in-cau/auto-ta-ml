@@ -4,7 +4,7 @@ TBA
 ## Summary
 2021 people space group c
 ## Prerequisites
-    * python3 (tested on 3.8.5)
+    * python3 (3.8 >= tested on 3.8.5)
     * recommend making a virtual environemnt
 ## Module Install
 ## Actual Install
@@ -42,18 +42,28 @@ This will change from OHLC data(you have to download or get data first. look at 
 * preprocessing.py
 ```sh
 # excute on terminal or shell
-python ohlc_to_image.py
+python preprocessing.py
 ```
 With TAlib[https://mrjbq7.github.io/ta-lib/] we tag chart patterns automatically. and we make images with the data of OHLC, chart pattern(label). The image will contain the data with date when the chart pattern detected, including the date before and after the pattern appears.(you can change the period(function parameter))
 
 (2021-01-25) you have to make "tmp" folder to execute. read the `preprocessing.py`
 
+* random_select_item.py
+```sh
+# excute on terminal or shell
+python random_select_item.py [pattern_folder_name ex)2016-5years-5days-nasdaqtop300]
+```
+This file should be in the same level with the pattern_folder. Because of difference in numbers of images in each categories, it will choose same numbers of picture in each categories randomly. You can change the number of pictures.
+
+
 ## License
 TBA
 
 ## TODO
-- [] 병렬처리 속도 향상
+- [X] 병렬처리 속도 향상
 - [X] imagepid값 다시 부여
 - [x] 폴더 재구성
-- [] 이미지 dropout
-- [] 불필요한 정보 빼기
+- [X] 이미지 dropout
+- [X] 불필요한 정보 빼기
+
+추가해주세요

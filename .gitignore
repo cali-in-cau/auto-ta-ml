@@ -3,3 +3,4 @@ datasets/daily/
 *.ipynb
 .ipynb_checkpoints/
 pattern_datasets/
+*.log
