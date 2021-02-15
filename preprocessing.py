@@ -14,13 +14,15 @@ import time
 def csv_to_func(ticker, dataset_name):
 
     try:
-        base_path = f'./pattern_datasets/{dataset_name}'
+        #base_path = f'./pattern_datasets/{dataset_name}'
+        base_path = f'./pattern_datasets/{dataset_name}/Industrials'
         if not os.path.isdir(base_path):
-            os.mkdir(base_path)
+            os.makedirs(base_path, exist_ok=True)
 
         patterns_names = talib.get_function_groups()['Pattern Recognition']
         #print(patterns_names)
-        csv_data = pd.read_csv(f"./datasets/daily/{ticker}",index_col=0,parse_dates=True)
+        #csv_data = pd.read_csv(f"./datasets/daily/{ticker}",index_col=0,parse_dates=True)
+        csv_data = pd.read_csv(f"./datasets/Industrials/{ticker}",index_col=0,parse_dates=True)
         cnt = 1
 
         for pattern in patterns_names:
@@ -46,7 +48,8 @@ def csv_to_func(ticker, dataset_name):
             for idx, item in enumerate(date_bear):
                 make_chart(ticker, tmp_data, item, cnt, pattern, "bear", base_path)
                 cnt+=1
-    except:
+    except Exception as ex:
+        print("error occured", ex)
         pass
 
 def make_chart(ticker, tmp_data, date, idx, pattern, isbull, base_path):
@@ -71,10 +74,10 @@ def make_chart(ticker, tmp_data, date, idx, pattern, isbull, base_path):
     savefig = dict(fname=f'{path}/{program_start_time}_{ticker}_{pattern}_{flag}_{idx}.png',\
     dpi=50,pad_inches=0,bbox_inches='tight')
     #matplotlib 함수
-    mpf.plot(nei_data,type='candle', style=s, savefig=savefig)
+    mpf.plot(nei_data, axisoff=True, type='candle', style=s, savefig=savefig)
 
 def load_csv_and_run(ticker):
-    dataset_name = "2016-5year-5days-nasdaqtop300"
+    dataset_name = "2016-5year-5days-nasdaq-sector-100"
     try:
         print(f"processing data from {ticker}")
         csv_to_func(ticker, dataset_name)
@@ -84,12 +87,16 @@ def load_csv_and_run(ticker):
 
     #TODO:if done add compress programatically
 if __name__ == "__main__":
+    #for sector training
+    sector_sets = ['Technology', 'Consumer Cyclical', 'Communication Services', 'Financial Services', 'Healthcare',
+    'Consumer Defensive', 'Energy', 'Basic Materials', 'Utilities', 'Industrials', 'Real Estate']
 
     base_path = f'./pattern_datasets/'
     if not os.path.isdir(base_path):
         os.mkdir(base_path)
 
-    path = "./datasets/daily/"
+    #path = "./datasets/daily/"
+    path = './datasets/Industrials/'
     tickers = os.listdir(path)
     
     #여러가지 데이터 수집을 위한 폴더의 이름을 임
@@ -110,7 +117,11 @@ if __name__ == "__main__":
 
     print("총 작업 시간", (end_time - start_time))
 
-    #TODO - multiprocessing 코드를 추가해서 이미지 변환의 속도를 높인다.
-    # 일단은 물리코어의 개수만큼 multiprocessing을 하도록 합시다.
+    #sector로 나누고 진행한 코드 아직 분리 못했음 sector분리 코드 사용하려면 daily가 각 섹터 이름으로 바뀌여야함
+    # 경로 다 바꾸어 주어야 함 이전 github code 보고 비교할것 / parameter로 변경 진행 안함
+    # 
 
-    # nohup python preprocessing.py & > result.out
+    
+
+    # nohup으로 진행하고 싶으면
+    # nohup python preprocessing.py > ./2018-3year-5days-nasdaqtop300-new.log 2>&1&

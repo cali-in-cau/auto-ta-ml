@@ -11,16 +11,13 @@ TBA
 if this do not work, look at `requirements.txt`
 
 ```sh
-pip install yfinance
-pip install matplotlib
-pip install --upgrade mplfinance
-#사용하고 있는 mplfinance 버전은 mplfinance==0.12.7a4 입니다.
+pip install -r requirements.txt
 ```
 ```sh
 # for TA-Lib
 pip install TA-Lib
 # https://mrjbq7.github.io/ta-lib/install.html 
-# 설치 안되면 위 링크에 설치 방법 있음 
+# if not work, read that link
 ```
 ## Execute
 * download_ohlc_csv.py

@@ -1,6 +1,7 @@
 auto-ta/
-datasets/daily/
-*.ipynb
+datasets/
+nohub_logs/
 .ipynb_checkpoints/
 pattern_datasets/
 *.log
+*.ipynb

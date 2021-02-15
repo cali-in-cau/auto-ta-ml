@@ -1,299 +1,501 @@
-AAPL,Apple Inc. Common Stock
-MSFT,Microsoft Corporation Common Stock
-AMZN,Amazon.com Inc. Common Stock
-GOOG,Alphabet Inc. Class C Capital Stock
-GOOGL,Alphabet Inc. Class A Common Stock
-TSLA,Tesla Inc. Common Stock
-FB,Facebook Inc. Class A Common Stock
-BABA,Alibaba Group Holding Limited American Depositary Shares each representing eight Ordinary share
-TSM,Taiwan Semiconductor Manufacturing Company Ltd.
-JNJ,Johnson & Johnson Common Stock
-V,Visa Inc.
-WMT,Walmart Inc. Common Stock
-JPM,JP Morgan Chase & Co. Common Stock
-NVDA,NVIDIA Corporation Common Stock
-UNH,UnitedHealth Group Incorporated Common Stock (DE)
-PG,Procter & Gamble Company (The) Common Stock
-MA,Mastercard Incorporated Common Stock
-DIS,Walt Disney Company (The) Common Stock
-HD,Home Depot Inc. (The) Common Stock
-PYPL,PayPal Holdings Inc. Common Stock
-BAC,Bank of America Corporation Common Stock
-NFLX,Netflix Inc. Common Stock
-CMCSA,Comcast Corporation Class A Common Stock
-VZ,Verizon Communications Inc. Common Stock
-INTC,Intel Corporation Common Stock
-ASML,ASML Holding N.V. New York Registry Shares
-ADBE,Adobe Inc. Common Stock
-ABT,Abbott Laboratories Common Stock
-NKE,Nike Inc. Common Stock
-CRM,Salesforce.com Inc Common Stock
-KO,Coca-Cola Company (The) Common Stock
-NVS,Novartis AG Common Stock
-T,AT&T Inc.
-PDD,Pinduoduo Inc. American Depositary Shares
-TMO,Thermo Fisher Scientific Inc Common Stock
-PFE,Pfizer Inc. Common Stock
-LLY,Eli Lilly and Company Common Stock
-TM,Toyota Motor Corporation Common Stock
-MRK,Merck & Company Inc. Common Stock (new)
-XOM,Exxon Mobil Corporation Common Stock
-PEP,PepsiCo Inc. Common Stock
-CSCO,Cisco Systems Inc. Common Stock (DE)
-AVGO,Broadcom Inc. Common Stock
-ABBV,AbbVie Inc. Common Stock
-ORCL,Oracle Corporation Common Stock
-QCOM,QUALCOMM Incorporated Common Stock
-DHR,Danaher Corporation Common Stock
-BHP,BHP Group Limited American Depositary Shares (Each representing two Ordinary Shares)
-CVX,Chevron Corporation Common Stock
-NVO,Novo Nordisk A/S Common Stock
-ACN,Accenture plc Class A Ordinary Shares (Ireland)
-NEE,NextEra Energy Inc. Common Stock
-TMUS,T-Mobile US Inc. Common Stock
-COST,Costco Wholesale Corporation Common Stock
-MCD,McDonald's Corporation Common Stock
-UL,Unilever PLC Common Stock
-TXN,Texas Instruments Incorporated Common Stock
-SAP,SAP  SE ADS
-MDT,Medtronic plc. Ordinary Shares
-AMGN,Amgen Inc. Common Stock
-BMY,Bristol-Myers Squibb Company Common Stock
-BBL,BHP Group PlcSponsored ADR
-JD,JD.com Inc. American Depositary Shares
-HON,Honeywell International Inc. Common Stock
-UPS,United Parcel Service Inc. Common Stock
-SHOP,Shopify Inc. Class A Subordinate Voting Shares
-UNP,Union Pacific Corporation Common Stock
-AZN,AstraZeneca PLC American Depositary Shares
-HDB,HDFC Bank Limited Common Stock
-LIN,Linde plc Ordinary Share
-LOW,Lowe's Companies Inc. Common Stock
-CHTR,Charter Communications Inc. Class A Common Stock New
-PM,Philip Morris International Inc Common Stock
-WFC,Wells Fargo & Company Common Stock
-BUD,Anheuser-Busch Inbev SA Sponsored ADR (Belgium)
-MS,Morgan Stanley Common Stock
-C,Citigroup Inc. Common Stock
-SNY,Sanofi ADR
-SNE,Sony Corporation Common Stock
-RY,Royal Bank Of Canada Common Stock
-SBUX,Starbucks Corporation Common Stock
-SE,Sea Limited American Depositary Shares each representing one Class A Ordinary Share
-TOT,Total SE
-BA,Boeing Company (The) Common Stock
-ABNB,Airbnb Inc. Class A Common Stock
-ZM,Zoom Video Communications Inc. Class A Common Stock
-BLK,BlackRock Inc. Common Stock
-HSBC,HSBC Holdings plc. Common Stock
-IBM,International Business Machines Corporation Common Stock
-NOW,ServiceNow Inc. Common Stock
-AMD,Advanced Micro Devices Inc. Common Stock
-TD,Toronto Dominion Bank (The) Common Stock
-MMM,3M Company Common Stock
-RTX,Raytheon Technologies Corporation Common Stock
-AMT,American Tower Corporation (REIT) Common Stock
-CAT,Caterpillar Inc. Common Stock
-INTU,Intuit Inc. Common Stock
-SQ,Square Inc. Class A Common Stock
-SCHW,Charles Schwab Corporation (The) Common Stock
-RIO,Rio Tinto Plc Common Stock
-UBER,Uber Technologies Inc. Common Stock
-CVS,CVS Health Corporation Common Stock
-DEO,Diageo plc Common Stock
-GSK,GlaxoSmithKline PLC Common Stock
-AXP,American Express Company Common Stock
-GE,General Electric Company Common Stock
-GS,Goldman Sachs Group Inc. (The) Common Stock
-DE,Deere & Company Common Stock
-TGT,Target Corporation Common Stock
-LMT,Lockheed Martin Corporation Common Stock
-NIO,NIO Inc. American depositary shares each  representing one Class A ordinary share
-MELI,MercadoLibre Inc. Common Stock
-AMAT,Applied Materials Inc. Common Stock
-ISRG,Intuitive Surgical Inc. Common Stock
-MU,Micron Technology Inc. Common Stock
-EL,Estee Lauder Companies Inc. (The) Common Stock
-BTI,British American Tobacco  Industries p.l.c. Common Stock ADR
-SYK,Stryker Corporation Common Stock
-VALE,VALE S.A.  American Depositary Shares Each Representing one common share
-GILD,Gilead Sciences Inc. Common Stock
-BIDU,Baidu Inc. ADS
-BKNG,Booking Holdings Inc. Common Stock
-MDLZ,Mondelez International Inc. Class A Common Stock
-SNAP,Snap Inc. Class A Common Stock
-NTES,NetEase Inc. American Depositary Shares
-CI,Cigna Corporation Common Stock
-SNOW,Snowflake Inc. Class A Common Stock
-TJX,TJX Companies Inc. (The) Common Stock
-FIS,Fidelity National Information Services Inc. Common Stock
-MO,Altria Group Inc.
-SPGI,S&P Global Inc. Common Stock
-PLD,Prologis Inc. Common Stock
-BDX,Becton Dickinson and Company Common Stock
-BP,BP p.l.c. Common Stock
-ANTM,Anthem Inc. Common Stock
-ZTS,Zoetis Inc. Class A Common Stock
-GM,General Motors Company Common Stock
-CNI,Canadian National Railway Company Common Stock
-INFY,Infosys Limited American Depositary Shares
-ADP,Automatic Data Processing Inc. Common Stock
-ATVI,Activision Blizzard Inc. Common Stock
-LRCX,Lam Research Corporation Common Stock
-BEKE,KE Holdings Inc American Depositary Shares (each representing three Class A Ordinary Shares)
-DUK,Duke Energy Corporation (Holding Company) Common Stock
-CCI,Crown Castle International Corp. (REIT) Common Stock
-FISV,Fiserv Inc. Common Stock
-MRNA,Moderna Inc. Common Stock
-ENB,Enbridge Inc Common Stock
-CL,Colgate-Palmolive Company Common Stock
-PLTR,Palantir Technologies Inc. Class A Common Stock
-EQIX,Equinix Inc. Common Stock REIT
-CB,Chubb Limited  Common Stock
-CSX,CSX Corporation Common Stock
-PBR,Petroleo Brasileiro S.A.- Petrobras Common Stock
-CME,CME Group Inc. Class A Common Stock
-TFC,Truist Financial Corporation Common Stock
-USB,U.S. Bancorp Common Stock
-BNS,Bank Nova Scotia Halifax Pfd 3 Ordinary Shares
-SHW,Sherwin-Williams Company (The) Common Stock
-FDX,FedEx Corporation Common Stock
-ILMN,Illumina Inc. Common Stock
-SO,Southern Company (The) Common Stock
-ICE,Intercontinental Exchange Inc. Common Stock
-ITW,Illinois Tool Works Inc. Common Stock
-DASH,DoorDash Inc. Class A Common Stock
-ADSK,Autodesk Inc. Common Stock
-PNC,PNC Financial Services Group Inc. (The) Common Stock
-ABB,ABB Ltd Common Stock
-LFC,China Life Insurance Company Limited American Depositary Shares
-NSC,Norfolk Southern Corporation Common Stock
-SPOT,Spotify Technology S.A. Ordinary Shares
-VRTX,Vertex Pharmaceuticals Incorporated Common Stock
-D,Dominion Energy Inc. Common Stock
-APD,Air Products and Chemicals Inc. Common Stock
-BAM,Brookfield Asset Management Inc. Common Stock
-MUFG,Mitsubishi UFJ Financial Group Inc. Common Stock
-ECL,Ecolab Inc. Common Stock
-DD,DuPont de Nemours Inc. Common Stock
-WBK,Westpac Banking Corporation Common Stock
-VMW,Vmware Inc. Common stock Class A
-TWLO,Twilio Inc. Class A Common Stock
-TEAM,Atlassian Corporation Plc Class A Ordinary Shares
-EQNR,Equinor ASA
-SNP,China Petroleum & Chemical Corporation Common Stock
-MMC,Marsh & McLennan Companies Inc. Common Stock
-PTR,PetroChina Company Limited Common Stock
-TAK,Takeda Pharmaceutical Company Limited American Depositary Shares (each representing 1/2 of a share of Common Stock)
-HCA,HCA Healthcare Inc. Common Stock
-DELL,Dell Technologies Inc. Class C Common Stock 
-WDAY,Workday Inc. Class A Common Stock
-ADI,Analog Devices Inc. Common Stock
-COP,ConocoPhillips Common Stock
-BSBR,Banco Santander Brasil SA American Depositary Shares each representing one unit
-REGN,Regeneron Pharmaceuticals Inc. Common Stock
-GPN,Global Payments Inc. Common Stock
-IBN,ICICI Bank Limited Common Stock
-RACE,Ferrari N.V. Common Shares
-EW,Edwards Lifesciences Corporation Common Stock
-SCCO,Southern Copper Corporation Common Stock
-UBS,UBS Group AG Registered Ordinary Shares
-PGR,Progressive Corporation (The) Common Stock
-ITUB,Itau Unibanco Banco Holding SA American Depositary Shares (Each repstg 500 Preferred shares)
-SAN,Banco Santander S.A. Sponsored ADR (Spain)
-HUM,Humana Inc. Common Stock
-BSX,Boston Scientific Corporation Common Stock
-MCO,Moody's Corporation Common Stock
-ROKU,Roku Inc. Class A Common Stock
-PHG,Koninklijke Philips N.V. NY Registry Shares
-BMO,Bank Of Montreal Common Stock
-RELX,RELX PLC PLC American Depositary Shares (Each representing One Ordinary Share)
-NEM,Newmont Corporation
-COF,Capital One Financial Corporation Common Stock
-NOC,Northrop Grumman Corporation Common Stock
-CRWD,CrowdStrike Holdings Inc. Class A Common Stock
-DG,Dollar General Corporation Common Stock
-EMR,Emerson Electric Company Common Stock
-STLA,Stellantis N.V. Common Shares
-WM,Waste Management Inc. Common Stock
-ETN,Eaton Corporation PLC Ordinary Shares
-AMOV,America Movil S.A.B. de C.V. Class A American Depositary Shares
-BX,The Blackstone Group Inc. Class A Common Stock
-AON,Aon plc Class A Ordinary Shares (Ireland)
-TAL,TAL Education Group American Depositary Shares
-VOD,Vodafone Group Plc American Depositary Shares
-MNST,Monster Beverage Corporation
-HMC,Honda Motor Company Ltd. Common Stock
-CP,Canadian Pacific Railway Limited Common Stock
-NXPI,NXP Semiconductors N.V. Common Stock
-CVNA,Carvana Co. Class A Common Stock
-KDP,Keurig Dr Pepper Inc. Common Stock
-KMB,Kimberly-Clark Corporation Common Stock
-TME,Tencent Music Entertainment Group American Depositary Shares each representing two Class A Ordinary Shares
-DOCU,DocuSign Inc. Common Stock
-EPD,Enterprise Products Partners L.P. Common Stock
-AMX,America Movil S.A.B. de C.V. American Depository Receipt Series L
-ABEV,Ambev S.A. American Depositary Shares (Each representing 1 Common Share)
-BIIB,Biogen Inc. Common Stock
-WBA,Walgreens Boots Alliance Inc. Common Stock
-MET,MetLife Inc. Common Stock
-KLAC,KLA Corporation Common Stock
-CEO,CNOOC Limited Common Stock
-LULU,lululemon athletica inc. Common Stock
-PTON,Peloton Interactive Inc. Class A Common Stock
-SMFG,Sumitomo Mitsui Financial Group Inc Unsponsored American Depositary Shares (Japan)
-RKT,Rocket Companies Inc. Class A Common Stock
-PINS,Pinterest Inc. Class A Common Stock
-GD,General Dynamics Corporation Common Stock
-CHWY,Chewy Inc. Class A Common Stock
-F,Ford Motor Company Common Stock
-VEEV,Veeva Systems Inc. Class A Common Stock
-CTSH,Cognizant Technology Solutions Corporation Class A Common Stock
-PUK,Prudential Public Limited Company Common Stock
-EA,Electronic Arts Inc. Common Stock
-ERIC,Ericsson American Depositary Shares
-ALGN,Align Technology Inc. Common Stock
-CMG,Chipotle Mexican Grill Inc. Common Stock
-NGG,National Grid Transco PLC National Grid PLC (NEW) American Depositary Shares
-ROP,Roper Technologies Inc. Common Stock
-KHC,The Kraft Heinz Company Common Stock
-STZ,Constellation Brands Inc. Common Stock
-IDXX,IDEXX Laboratories Inc. Common Stock
-U,Unity Software Inc. Common Stock
-EXC,Exelon Corporation Common Stock
-TRI,Thomson Reuters Corp Ordinary Shares
-TRP,TC Energy Corporation Common Stock
-DLR,Digital Realty Trust Inc. Common Stock
-TWTR,Twitter Inc. Common Stock
-AEP,American Electric Power Company Inc. Common Stock
-TEL,TE Connectivity Ltd. New Switzerland Registered Shares
-PSA,Public Storage Common Stock
-GOLD,Barrick Gold Corporation Common Stock (BC)
-ROST,Ross Stores Inc. Common Stock
-BILI,Bilibili Inc. American Depositary Shares
-BAX,Baxter International Inc. Common Stock
-FCX,Freeport-McMoRan Inc. Common Stock
-SNPS,Synopsys Inc. Common Stock
-EBAY,eBay Inc. Common Stock
-LU,Lufax Holding Ltd American Depositary Shares two of which representing one Ordinary Share
-DOW,Dow Inc. Common Stock 
-BCE,BCE Inc. Common Stock
-TDOC,Teladoc Health Inc. Common Stock
-CM,Canadian Imperial Bank of Commerce Common Stock
-MAR,Marriott International Class A Common Stock
-APH,Amphenol Corporation Common Stock
-MTCH,Match Group Inc. Common Stock
-A,Agilent Technologies Inc. Common Stock
-LVS,Las Vegas Sands Corp. Common Stock
-MCHP,Microchip Technology Incorporated Common Stock
-SYY,Sysco Corporation Common Stock
-CDNS,Cadence Design Systems Inc. Common Stock
-STM,STMicroelectronics N.V. Common Stock
-APTV,Aptiv PLC Ordinary Shares
-LHX,L3Harris Technologies Inc. Common Stock
-DXCM,DexCom Inc. Common Stock
-TTD,The Trade Desk Inc. Class A Common Stock
-JCI,Johnson Controls International plc Ordinary Share
-E,ENI S.p.A. Common Stock
-SRE,Sempra Energy Common Stock
-GIS,General Mills Inc. Common Stock
+AAPL,Apple Inc. Common Stock,Technology,Computer Manufacturing
+MSFT,Microsoft Corporation Common Stock,Technology,Computer Software: Prepackaged Software
+AMZN,Amazon.com Inc. Common Stock,Consumer Services,Catalog/Specialty Distribution
+GOOG,Alphabet Inc. Class C Capital Stock,Technology,Computer Software: Programming Data Processing
+GOOGL,Alphabet Inc. Class A Common Stock,Technology,Computer Software: Programming Data Processing
+TSLA,Tesla Inc. Common Stock,Capital Goods,Auto Manufacturing
+FB,Facebook Inc. Class A Common Stock,Technology,Computer Software: Programming Data Processing
+BABA,Alibaba Group Holding Limited American Depositary Shares each representing eight Ordinary share,Miscellaneous,Business Services
+TSM,Taiwan Semiconductor Manufacturing Company Ltd.,Technology,Semiconductors
+V,Visa Inc.,Miscellaneous,Business Services
+JNJ,Johnson & Johnson Common Stock,Health Care,Major Pharmaceuticals
+JPM,JP Morgan Chase & Co. Common Stock,Finance,Major Banks
+WMT,Walmart Inc. Common Stock,Consumer Services,Department/Specialty Retail Stores
+NVDA,NVIDIA Corporation Common Stock,Technology,Semiconductors
+DIS,Walt Disney Company (The) Common Stock,Consumer Services,Services-Misc. Amusement & Recreation
+MA,Mastercard Incorporated Common Stock,Miscellaneous,Business Services
+PYPL,PayPal Holdings Inc. Common Stock,Miscellaneous,Business Services
+PG,Procter & Gamble Company (The) Common Stock,Basic Industries,Package Goods/Cosmetics
+UNH,UnitedHealth Group Incorporated Common Stock (DE),Health Care,Medical Specialities
+HD,Home Depot Inc. (The) Common Stock,Consumer Services,RETAIL: Building Materials
+BAC,Bank of America Corporation Common Stock,Finance,Major Banks
+NFLX,Netflix Inc. Common Stock,Consumer Services,Consumer Electronics/Video Chains
+INTC,Intel Corporation Common Stock,Technology,Semiconductors
+CMCSA,Comcast Corporation Class A Common Stock,Consumer Services,Television Services
+ASML,ASML Holding N.V. New York Registry Shares,Technology,Industrial Machinery/Components
+ADBE,Adobe Inc. Common Stock,Technology,Computer Software: Prepackaged Software
+PDD,Pinduoduo Inc. American Depositary Shares,Miscellaneous,Business Services
+VZ,Verizon Communications Inc. Common Stock,Public Utilities,Telecommunications Equipment
+NKE,Nike Inc. Common Stock,Consumer Non-Durables,Shoe Manufacturing
+ABT,Abbott Laboratories Common Stock,Health Care,Major Pharmaceuticals
+XOM,Exxon Mobil Corporation Common Stock,Energy,Integrated oil Companies
+CRM,Salesforce.com Inc Common Stock,Technology,Computer Software: Prepackaged Software
+KO,Coca-Cola Company (The) Common Stock,Consumer Non-Durables,Beverages (Production/Distribution)
+TM,Toyota Motor Corporation Common Stock,Capital Goods,Auto Manufacturing
+CSCO,Cisco Systems Inc. Common Stock (DE),Technology,Computer Communications Equipment
+NVS,Novartis AG Common Stock,Health Care,Major Pharmaceuticals
+T,AT&T Inc.,Public Utilities,Telecommunications Equipment
+LLY,Eli Lilly and Company Common Stock,Health Care,Major Pharmaceuticals
+TMO,Thermo Fisher Scientific Inc Common Stock,Capital Goods,Industrial Machinery/Components
+PEP,PepsiCo Inc. Common Stock,Consumer Non-Durables,Beverages (Production/Distribution)
+PFE,Pfizer Inc. Common Stock,Health Care,Major Pharmaceuticals
+AVGO,Broadcom Inc. Common Stock,Technology,Semiconductors
+MRK,Merck & Company Inc. Common Stock (new),Health Care,Major Pharmaceuticals
+ABBV,AbbVie Inc. Common Stock,Health Care,Major Pharmaceuticals
+ORCL,Oracle Corporation Common Stock,Technology,Computer Software: Prepackaged Software
+BHP,BHP Group Limited American Depositary Shares (Each representing two Ordinary Shares),Basic Industries,Precious Metals
+CVX,Chevron Corporation Common Stock,Energy,Integrated oil Companies
+ACN,Accenture plc Class A Ordinary Shares (Ireland),Miscellaneous,Business Services
+DHR,Danaher Corporation Common Stock,Capital Goods,Industrial Machinery/Components
+QCOM,QUALCOMM Incorporated Common Stock,Technology,Radio And Television Broadcasting And Communications Equipment
+NVO,Novo Nordisk A/S Common Stock,Health Care,Major Pharmaceuticals
+SHOP,Shopify Inc. Class A Subordinate Voting Shares,Technology,Computer Software: Prepackaged Software
+NEE,NextEra Energy Inc. Common Stock,Public Utilities,Electric Utilities: Central
+TXN,Texas Instruments Incorporated Common Stock,Technology,Semiconductors
+COST,Costco Wholesale Corporation Common Stock,Consumer Services,Department/Specialty Retail Stores
+MDT,Medtronic plc. Ordinary Shares,Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus
+MCD,McDonald's Corporation Common Stock,Consumer Services,Restaurants
+SAP,SAP  SE ADS,Technology,Computer Software: Prepackaged Software
+TMUS,T-Mobile US Inc. Common Stock,Public Utilities,Telecommunications Equipment
+HDB,HDFC Bank Limited Common Stock,Finance,Commercial Banks
+BBL,BHP Group PlcSponsored ADR,Energy,Coal Mining
+JD,JD.com Inc. American Depositary Shares,Consumer Services,Other Specialty Stores
+UL,Unilever PLC Common Stock,Basic Industries,Package Goods/Cosmetics
+HON,Honeywell International Inc. Common Stock,Capital Goods,Aerospace
+SNE,Sony Corporation Common Stock,Consumer Non-Durables,Consumer Electronics/Appliances
+UPS,United Parcel Service Inc. Common Stock,Transportation,Trucking Freight/Courier Services
+WFC,Wells Fargo & Company Common Stock,Finance,Major Banks
+UNP,Union Pacific Corporation Common Stock,Transportation,Railroads
+AMGN,Amgen Inc. Common Stock,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+BMY,Bristol-Myers Squibb Company Common Stock,Health Care,Major Pharmaceuticals
+LIN,Linde plc Ordinary Share,Basic Industries,Major Chemicals
+SE,Sea Limited American Depositary Shares each representing one Class A Ordinary Share,Consumer Services,Other Consumer Services
+LOW,Lowe's Companies Inc. Common Stock,Consumer Services,RETAIL: Building Materials
+MS,Morgan Stanley Common Stock,Finance,Investment Bankers/Brokers/Service
+PM,Philip Morris International Inc Common Stock,Consumer Non-Durables,Farming/Seeds/Milling
+C,Citigroup Inc. Common Stock,Finance,Major Banks
+AZN,AstraZeneca PLC American Depositary Shares,Health Care,Major Pharmaceuticals
+BUD,Anheuser-Busch Inbev SA Sponsored ADR (Belgium),Consumer Non-Durables,Beverages (Production/Distribution)
+CHTR,Charter Communications Inc. Class A Common Stock New,Consumer Services,Television Services
+SBUX,Starbucks Corporation Common Stock,Consumer Services,Restaurants
+BA,Boeing Company (The) Common Stock,Capital Goods,Aerospace
+SNY,Sanofi ADR,Health Care,Major Pharmaceuticals
+ZM,Zoom Video Communications Inc. Class A Common Stock,Technology,Computer Software: Programming Data Processing
+RY,Royal Bank Of Canada Common Stock,Finance,Commercial Banks
+ABNB,Airbnb Inc. Class A Common Stock,Finance,Diversified Commercial Services
+SQ,Square Inc. Class A Common Stock,Technology,Computer Software: Prepackaged Software
+NOW,ServiceNow Inc. Common Stock,Technology,Computer Software: Prepackaged Software
+TOT,Total SE,Energy,Oil & Gas Production
+BLK,BlackRock Inc. Common Stock,Finance,Investment Bankers/Brokers/Service
+AMD,Advanced Micro Devices Inc. Common Stock,Technology,Semiconductors
+IBM,International Business Machines Corporation Common Stock,Technology,Computer Manufacturing
+RTX,Raytheon Technologies Corporation Common Stock,Capital Goods,Aerospace
+UBER,Uber Technologies Inc. Common Stock,Miscellaneous,Business Services
+HSBC,HSBC Holdings plc. Common Stock,Finance,Savings Institutions
+CAT,Caterpillar Inc. Common Stock,Capital Goods,Construction/Ag Equipment/Trucks
+TD,Toronto Dominion Bank (The) Common Stock,Finance,Commercial Banks
+INTU,Intuit Inc. Common Stock,Technology,Computer Software: Prepackaged Software
+SCHW,Charles Schwab Corporation (The) Common Stock,Finance,Investment Bankers/Brokers/Service
+MMM,3M Company Common Stock,Health Care,Medical/Dental Instruments
+AMT,American Tower Corporation (REIT) Common Stock,Consumer Services,Real Estate Investment Trusts
+GS,Goldman Sachs Group Inc. (The) Common Stock,Finance,Investment Bankers/Brokers/Service
+AXP,American Express Company Common Stock,Finance,Finance: Consumer Services
+EL,Estee Lauder Companies Inc. (The) Common Stock,Consumer Non-Durables,Package Goods/Cosmetics
+GE,General Electric Company Common Stock,Energy,Consumer Electronics/Appliances
+RIO,Rio Tinto Plc Common Stock,Basic Industries,Precious Metals
+DE,Deere & Company Common Stock,Capital Goods,Industrial Machinery/Components
+AMAT,Applied Materials Inc. Common Stock,Technology,Semiconductors
+TGT,Target Corporation Common Stock,Consumer Services,Department/Specialty Retail Stores
+SNAP,Snap Inc. Class A Common Stock,Technology,Computer Software: Programming Data Processing
+DEO,Diageo plc Common Stock,Consumer Non-Durables,Beverages (Production/Distribution)
+CVS,CVS Health Corporation Common Stock,Health Care,Medical/Nursing Services
+MELI,MercadoLibre Inc. Common Stock,Miscellaneous,Business Services
+LMT,Lockheed Martin Corporation Common Stock,Capital Goods,Military/Government/Technical
+BIDU,Baidu Inc. ADS,Technology,Computer Software: Programming Data Processing
+MU,Micron Technology Inc. Common Stock,Technology,Semiconductors
+NIO,NIO Inc. American depositary shares each  representing one Class A ordinary share,Capital Goods,Auto Manufacturing
+SYK,Stryker Corporation Common Stock,Health Care,Medical/Dental Instruments
+VALE,VALE S.A.  American Depositary Shares Each Representing one common share,Basic Industries,Precious Metals
+ISRG,Intuitive Surgical Inc. Common Stock,Health Care,Industrial Specialties
+GSK,GlaxoSmithKline PLC Common Stock,Health Care,Major Pharmaceuticals
+SNOW,Snowflake Inc. Class A Common Stock,Technology,Computer Software: Prepackaged Software
+BKNG,Booking Holdings Inc. Common Stock,Consumer Services,Transportation Services
+BTI,British American Tobacco  Industries p.l.c. Common Stock ADR,Consumer Non-Durables,Farming/Seeds/Milling
+GILD,Gilead Sciences Inc. Common Stock,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+NTES,NetEase Inc. American Depositary Shares,Miscellaneous,Business Services
+TJX,TJX Companies Inc. (The) Common Stock,Consumer Services,Clothing/Shoe/Accessory Stores
+FIS,Fidelity National Information Services Inc. Common Stock,Miscellaneous,Business Services
+GM,General Motors Company Common Stock,Capital Goods,Auto Manufacturing
+MO,Altria Group Inc.,Consumer Non-Durables,Farming/Seeds/Milling
+PLD,Prologis Inc. Common Stock,Consumer Services,Real Estate Investment Trusts
+MDLZ,Mondelez International Inc. Class A Common Stock,Consumer Non-Durables,Packaged Foods
+SPGI,S&P Global Inc. Common Stock,Finance,Finance: Consumer Services
+ATVI,Activision Blizzard Inc. Common Stock,Technology,Computer Software: Prepackaged Software
+INFY,Infosys Limited American Depositary Shares,Technology,EDP Services
+LRCX,Lam Research Corporation Common Stock,Technology,Industrial Machinery/Components
+ZTS,Zoetis Inc. Class A Common Stock,Health Care,Major Pharmaceuticals
+FISV,Fiserv Inc. Common Stock,Technology,EDP Services
+CNI,Canadian National Railway Company Common Stock,Transportation,Railroads
+CB,Chubb Limited  Common Stock,Finance,Property-Casualty Insurers
+BP,BP p.l.c. Common Stock,Energy,Integrated oil Companies
+BDX,Becton Dickinson and Company Common Stock,Health Care,Medical/Dental Instruments
+MRNA,Moderna Inc. Common Stock,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+BEKE,KE Holdings Inc American Depositary Shares (each representing three Class A Ordinary Shares),Finance,Real Estate
+ENB,Enbridge Inc Common Stock,Energy,Natural Gas Distribution
+CI,Cigna Corporation Common Stock,Health Care,Medical Specialities
+ADP,Automatic Data Processing Inc. Common Stock,Technology,EDP Services
+ANTM,Anthem Inc. Common Stock,Health Care,Medical Specialities
+TFC,Truist Financial Corporation Common Stock,Finance,Major Banks
+USB,U.S. Bancorp Common Stock,Finance,Major Banks
+CCI,Crown Castle International Corp. (REIT) Common Stock,,
+PBR,Petroleo Brasileiro S.A.- Petrobras Common Stock,Energy,Oil & Gas Production
+DUK,Duke Energy Corporation (Holding Company) Common Stock,Public Utilities,Power Generation
+CME,CME Group Inc. Class A Common Stock,Finance,Investment Bankers/Brokers/Service
+CL,Colgate-Palmolive Company Common Stock,Consumer Non-Durables,Package Goods/Cosmetics
+FDX,FedEx Corporation Common Stock,Transportation,Air Freight/Delivery Services
+PLTR,Palantir Technologies Inc. Class A Common Stock,Technology,Computer Software: Prepackaged Software
+BNS,Bank Nova Scotia Halifax Pfd 3 Ordinary Shares,Finance,Major Banks
+PNC,PNC Financial Services Group Inc. (The) Common Stock,Finance,Major Banks
+CSX,CSX Corporation Common Stock,Transportation,Railroads
+EQIX,Equinix Inc. Common Stock REIT,Consumer Services,Real Estate Investment Trusts
+ADSK,Autodesk Inc. Common Stock,Technology,Computer Software: Prepackaged Software
+ILMN,Illumina Inc. Common Stock,Capital Goods,Biotechnology: Laboratory Analytical Instruments
+SHW,Sherwin-Williams Company (The) Common Stock,Consumer Services,RETAIL: Building Materials
+WDAY,Workday Inc. Class A Common Stock,Technology,EDP Services
+ITW,Illinois Tool Works Inc. Common Stock,Technology,Industrial Machinery/Components
+MUFG,Mitsubishi UFJ Financial Group Inc. Common Stock,Finance,Commercial Banks
+SO,Southern Company (The) Common Stock,Public Utilities,Electric Utilities: Central
+TWLO,Twilio Inc. Class A Common Stock,Technology,Computer Software: Prepackaged Software
+ICE,Intercontinental Exchange Inc. Common Stock,Finance,Investment Bankers/Brokers/Service
+COP,ConocoPhillips Common Stock,Energy,Integrated oil Companies
+BAM,Brookfield Asset Management Inc. Common Stock,Consumer Services,Building operators
+ECL,Ecolab Inc. Common Stock,Basic Industries,Package Goods/Cosmetics
+WBK,Westpac Banking Corporation Common Stock,Finance,Commercial Banks
+VMW,Vmware Inc. Common stock Class A,Technology,Computer Software: Prepackaged Software
+NSC,Norfolk Southern Corporation Common Stock,Transportation,Railroads
+SPOT,Spotify Technology S.A. Ordinary Shares,Consumer Services,Broadcasting
+TEAM,Atlassian Corporation Plc Class A Ordinary Shares,Technology,Computer Software: Prepackaged Software
+IBN,ICICI Bank Limited Common Stock,Finance,Commercial Banks
+HCA,HCA Healthcare Inc. Common Stock,Health Care,Hospital/Nursing Management
+D,Dominion Energy Inc. Common Stock,Public Utilities,Electric Utilities: Central
+EQNR,Equinor ASA,Energy,Integrated oil Companies
+GPN,Global Payments Inc. Common Stock,Miscellaneous,Business Services
+DELL,Dell Technologies Inc. Class C Common Stock ,Technology,Computer Manufacturing
+LFC,China Life Insurance Company Limited American Depositary Shares,Finance,Life Insurance
+SAN,Banco Santander S.A. Sponsored ADR (Spain),Finance,Commercial Banks
+SNP,China Petroleum & Chemical Corporation Common Stock,Energy,Integrated oil Companies
+ABB,ABB Ltd Common Stock,Consumer Durables,Electrical Products
+MMC,Marsh & McLennan Companies Inc. Common Stock,Finance,Specialty Insurers
+PTR,PetroChina Company Limited Common Stock,Energy,Oil & Gas Production
+ADI,Analog Devices Inc. Common Stock,Technology,Semiconductors
+DASH,DoorDash Inc. Class A Common Stock,Miscellaneous,Business Services
+APD,Air Products and Chemicals Inc. Common Stock,Basic Industries,Major Chemicals
+BSBR,Banco Santander Brasil SA American Depositary Shares each representing one unit,Finance,Commercial Banks
+BSX,Boston Scientific Corporation Common Stock,Health Care,Medical/Dental Instruments
+VRTX,Vertex Pharmaceuticals Incorporated Common Stock,Health Care,Major Pharmaceuticals
+ROKU,Roku Inc. Class A Common Stock,Consumer Services,Television Services
+SCCO,Southern Copper Corporation Common Stock,Basic Industries,Precious Metals
+UBS,UBS Group AG Registered Ordinary Shares,Finance,Major Banks
+TAK,Takeda Pharmaceutical Company Limited American Depositary Shares (each representing 1/2 of a share of Common Stock),Health Care,Major Pharmaceuticals
+EW,Edwards Lifesciences Corporation Common Stock,Health Care,Industrial Specialties
+COF,Capital One Financial Corporation Common Stock,Finance,Major Banks
+REGN,Regeneron Pharmaceuticals Inc. Common Stock,Health Care,Major Pharmaceuticals
+NXPI,NXP Semiconductors N.V. Common Stock,Technology,Semiconductors
+MCO,Moody's Corporation Common Stock,Finance,Finance: Consumer Services
+EMR,Emerson Electric Company Common Stock,Energy,Consumer Electronics/Appliances
+RACE,Ferrari N.V. Common Shares,Capital Goods,Auto Manufacturing
+AON,Aon plc Class A Ordinary Shares (Ireland),Finance,Specialty Insurers
+STLA,Stellantis N.V. Common Shares,,
+PHG,Koninklijke Philips N.V. NY Registry Shares,Health Care,Medical Electronics
+PGR,Progressive Corporation (The) Common Stock,Finance,Property-Casualty Insurers
+PINS,Pinterest Inc. Class A Common Stock,Technology,Computer Software: Programming Data Processing
+ITUB,Itau Unibanco Banco Holding SA American Depositary Shares (Each repstg 500 Preferred shares),Finance,Major Banks
+NOC,Northrop Grumman Corporation Common Stock,Capital Goods,Industrial Machinery/Components
+BILI,Bilibili Inc. American Depositary Shares,Technology,EDP Services
+HMC,Honda Motor Company Ltd. Common Stock,Capital Goods,Auto Manufacturing
+BMO,Bank Of Montreal Common Stock,Finance,Commercial Banks
+CEO,CNOOC Limited Common Stock,Energy,Oil & Gas Production
+VOD,Vodafone Group Plc American Depositary Shares,Public Utilities,Telecommunications Equipment
+CVNA,Carvana Co. Class A Common Stock,Consumer Durables,Automotive Aftermarket
+CRWD,CrowdStrike Holdings Inc. Class A Common Stock,Technology,Computer Software: Prepackaged Software
+BX,The Blackstone Group Inc. Class A Common Stock,Finance,Investment Managers
+RELX,RELX PLC PLC American Depositary Shares (Each representing One Ordinary Share),Miscellaneous,Business Services
+HUM,Humana Inc. Common Stock,Health Care,Medical Specialities
+DG,Dollar General Corporation Common Stock,Consumer Services,Department/Specialty Retail Stores
+NEM,Newmont Corporation,Basic Industries,Precious Metals
+MET,MetLife Inc. Common Stock,Finance,Life Insurance
+WM,Waste Management Inc. Common Stock,Public Utilities,Environmental Services
+TAL,TAL Education Group American Depositary Shares,Consumer Services,Other Consumer Services
+MNST,Monster Beverage Corporation,Consumer Non-Durables,Beverages (Production/Distribution)
+ETN,Eaton Corporation PLC Ordinary Shares,Technology,Industrial Machinery/Components
+DOCU,DocuSign Inc. Common Stock,Technology,Computer Software: Prepackaged Software
+ALGN,Align Technology Inc. Common Stock,Health Care,Industrial Specialties
+CP,Canadian Pacific Railway Limited Common Stock,Transportation,Railroads
+FCX,Freeport-McMoRan Inc. Common Stock,Basic Industries,Precious Metals
+EPD,Enterprise Products Partners L.P. Common Stock,Public Utilities,Natural Gas Distribution
+SMFG,Sumitomo Mitsui Financial Group Inc Unsponsored American Depositary Shares (Japan),Finance,Commercial Banks
+KLAC,KLA Corporation Common Stock,Capital Goods,Electronic Components
+TWTR,Twitter Inc. Common Stock,Technology,Computer Software: Programming Data Processing
+F,Ford Motor Company Common Stock,Capital Goods,Auto Manufacturing
+AMOV,America Movil S.A.B. de C.V. Class A American Depositary Shares,Public Utilities,Telecommunications Equipment
+GD,General Dynamics Corporation Common Stock,Capital Goods,Marine Transportation
+KDP,Keurig Dr Pepper Inc. Common Stock,Consumer Non-Durables,Beverages (Production/Distribution)
+AMX,America Movil S.A.B. de C.V. American Depository Receipt Series L,Public Utilities,Telecommunications Equipment
+VEEV,Veeva Systems Inc. Class A Common Stock,Technology,Computer Software: Prepackaged Software
+KMB,Kimberly-Clark Corporation Common Stock,Consumer Durables,Containers/Packaging
+ABEV,Ambev S.A. American Depositary Shares (Each representing 1 Common Share),Consumer Non-Durables,Beverages (Production/Distribution)
+CHWY,Chewy Inc. Class A Common Stock,Consumer Services,Catalog/Specialty Distribution
+ERIC,Ericsson American Depositary Shares,Technology,Radio And Television Broadcasting And Communications Equipment
+PUK,Prudential Public Limited Company Common Stock,Finance,Life Insurance
+STZ,Constellation Brands Inc. Common Stock,Consumer Non-Durables,Beverages (Production/Distribution)
+LULU,lululemon athletica inc. Common Stock,Consumer Non-Durables,Apparel
+TME,Tencent Music Entertainment Group American Depositary Shares each representing two Class A Ordinary Shares,Consumer Services,Broadcasting
+EBAY,eBay Inc. Common Stock,Miscellaneous,Business Services
+WBA,Walgreens Boots Alliance Inc. Common Stock,Health Care,Medical/Nursing Services
+TEL,TE Connectivity Ltd. New Switzerland Registered Shares,Technology,Electronic Components
+ROST,Ross Stores Inc. Common Stock,Consumer Services,Clothing/Shoe/Accessory Stores
+RKT,Rocket Companies Inc. Class A Common Stock,Finance,Finance: Consumer Services
+ROP,Roper Technologies Inc. Common Stock,Capital Goods,Industrial Machinery/Components
+PTON,Peloton Interactive Inc. Class A Common Stock,Energy,Consumer Electronics/Appliances
+TDOC,Teladoc Health Inc. Common Stock,Health Care,Medical/Nursing Services
+EXC,Exelon Corporation Common Stock,Public Utilities,Power Generation
+DOW,Dow Inc. Common Stock ,Basic Industries,Major Chemicals
+SNPS,Synopsys Inc. Common Stock,Technology,Computer Software: Prepackaged Software
+MTCH,Match Group Inc. Common Stock,Technology,Computer Software: Programming Data Processing
+IDXX,IDEXX Laboratories Inc. Common Stock,Health Care,Biotechnology: In Vitro & In Vivo Diagnostic Substances
+LVS,Las Vegas Sands Corp. Common Stock,Consumer Services,Hotels/Resorts
+CMG,Chipotle Mexican Grill Inc. Common Stock,Consumer Services,Restaurants
+LU,Lufax Holding Ltd American Depositary Shares two of which representing one Ordinary Share,Finance,Finance: Consumer Services
+BBD,Banco Bradesco Sa American Depositary Shares,Finance,Major Banks
+MAR,Marriott International Class A Common Stock,Consumer Services,Hotels/Resorts
+TRI,Thomson Reuters Corp Ordinary Shares,Consumer Services,Publishing
+KHC,The Kraft Heinz Company Common Stock,Consumer Non-Durables,Packaged Foods
+NGG,National Grid Transco PLC National Grid PLC (NEW) American Depositary Shares,Public Utilities,Natural Gas Distribution
+EA,Electronic Arts Inc. Common Stock,Technology,Computer Software: Prepackaged Software
+MCHP,Microchip Technology Incorporated Common Stock,Technology,Semiconductors
+DLR,Digital Realty Trust Inc. Common Stock,Consumer Services,Real Estate Investment Trusts
+BIIB,Biogen Inc. Common Stock,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+PSA,Public Storage Common Stock,Consumer Services,Real Estate Investment Trusts
+DD,DuPont de Nemours Inc. Common Stock,Basic Industries,Major Chemicals
+TRP,TC Energy Corporation Common Stock,Public Utilities,Natural Gas Distribution
+CTSH,Cognizant Technology Solutions Corporation Class A Common Stock,Technology,EDP Services
+AEP,American Electric Power Company Inc. Common Stock,Public Utilities,Electric Utilities: Central
+APTV,Aptiv PLC Ordinary Shares,Capital Goods,Auto Parts:O.E.M.
+TTD,The Trade Desk Inc. Class A Common Stock,Technology,Computer Software: Programming Data Processing
+GOLD,Barrick Gold Corporation Common Stock (BC),Basic Industries,Precious Metals
+CM,Canadian Imperial Bank of Commerce Common Stock,Finance,Commercial Banks
+BAX,Baxter International Inc. Common Stock,Health Care,Medical/Dental Instruments
+APH,Amphenol Corporation Common Stock,Capital Goods,Electrical Products
+BCE,BCE Inc. Common Stock,Public Utilities,Telecommunications Equipment
+ZG,Zillow Group Inc. Class A Common Stock,Miscellaneous,Business Services
+SYY,Sysco Corporation Common Stock,Consumer Non-Durables,Food Distributors
+API,Agora Inc. American Depositary Shares,Technology,Computer Software: Prepackaged Software
+LHX,L3Harris Technologies Inc. Common Stock,Capital Goods,Industrial Machinery/Components
+DXCM,DexCom Inc. Common Stock,Health Care,Medical/Dental Instruments
+CDNS,Cadence Design Systems Inc. Common Stock,Technology,Computer Software: Prepackaged Software
+Z,Zillow Group Inc. Class C Capital Stock,Miscellaneous,Business Services
+STM,STMicroelectronics N.V. Common Stock,Technology,Semiconductors
+A,Agilent Technologies Inc. Common Stock,Capital Goods,Biotechnology: Laboratory Analytical Instruments
+E,ENI S.p.A. Common Stock,Energy,Oil & Gas Production
+MFG,Mizuho Financial Group Inc. Sponosred ADR (Japan),Finance,Major Banks
+BBDO,Banco Bradesco Sa American Depositary Shares (each representing one Common Share),Finance,Major Banks
+PANW,Palo Alto Networks Inc. Common Stock,Technology,Computer peripheral equipment
+MFC,Manulife Financial Corporation Common Stock,Finance,Life Insurance
+BK,The Bank of New York Mellon Corporation Common Stock,Finance,Major Banks
+JCI,Johnson Controls International plc Ordinary Share,Consumer Services,Other Consumer Services
+TROW,T. Rowe Price Group Inc. Common Stock,Finance,Investment Bankers/Brokers/Service
+TRV,The Travelers Companies Inc. Common Stock,Finance,Property-Casualty Insurers
+ING,ING Group N.V. Common Stock,Finance,Commercial Banks
+RNG,RingCentral Inc. Class A Common Stock,Technology,EDP Services
+CTAS,Cintas Corporation Common Stock,Consumer Non-Durables,Apparel
+ALC,Alcon Inc. Ordinary Shares,Health Care,Ophthalmic Goods
+OKTA,Okta Inc. Class A Common Stock,Technology,Computer Software: Prepackaged Software
+SLB,Schlumberger N.V. Common Stock,Energy,Oilfield Services/Equipment
+BBVA,Banco Bilbao Vizcaya Argentaria S.A. Common Stock,Finance,Commercial Banks
+SRE,Sempra Energy Common Stock,Public Utilities,Natural Gas Distribution
+LBRDK,Liberty Broadband Corporation Class C Common Stock,Consumer Services,Television Services
+PH,Parker-Hannifin Corporation Common Stock,Capital Goods,Metal Fabrications
+WIT,Wipro Limited Common Stock,Technology,EDP Services
+IQV,IQVIA Holdings Inc. Common Stock,Health Care,Biotechnology: Commercial Physical & Biological Resarch
+LYG,Lloyds Banking Group Plc American Depositary Shares,Finance,Commercial Banks
+TT,Trane Technologies plc,Capital Goods,Auto Parts:O.E.M.
+CSGP,CoStar Group Inc. Common Stock,Miscellaneous,Business Services
+LBRDA,Liberty Broadband Corporation Class A Common Stock,Consumer Services,Television Services
+INFO,IHS Markit Ltd. Common Shares,Technology,Computer Software: Programming Data Processing
+DDOG,Datadog Inc. Class A Common Stock,Technology,Computer Software: Prepackaged Software
+CMI,Cummins Inc. Common Stock,Energy,Industrial Machinery/Components
+GIS,General Mills Inc. Common Stock,Consumer Non-Durables,Packaged Foods
+HPQ,HP Inc. Common Stock,Technology,Computer Manufacturing
+BCS,Barclays PLC Common Stock,Finance,Commercial Banks
+MSCI,MSCI Inc Common Stock,Miscellaneous,Business Services
+XLNX,Xilinx Inc. Common Stock,Technology,Semiconductors
+MRVL,Marvell Technology Group Ltd. Common Stock,Technology,Semiconductors
+EOG,EOG Resources Inc. Common Stock,Energy,Oil & Gas Production
+CARR,Carrier Global Corporation Common Stock ,Capital Goods,Industrial Machinery/Components
+RLX,RLX Technology Inc. American Depositary Shares each representing the right to receive one (1) Class A ordinary share,Consumer Non-Durables,Farming/Seeds/Milling
+U,Unity Software Inc. Common Stock,Technology,Computer Software: Prepackaged Software
+XPEV,XPeng Inc. American depositary shares each representing two Class A ordinary shares,Capital Goods,Auto Manufacturing
+CRH,CRH PLC American Depositary Shares,Capital Goods,Building Materials
+ALXN,Alexion Pharmaceuticals Inc. Common Stock,Health Care,Major Pharmaceuticals
+CNC,Centene Corporation Common Stock,Health Care,Medical Specialities
+BGNE,BeiGene Ltd. American Depositary Shares,Health Care,Major Pharmaceuticals
+VIACA,ViacomCBS Inc. Class A Common Stock,Consumer Services,Broadcasting
+VIAC,ViacomCBS Inc. Class B Common Stock,Consumer Services,Broadcasting
+PCAR,PACCAR Inc. Common Stock,Capital Goods,Auto Manufacturing
+XEL,Xcel Energy Inc. Common Stock,Public Utilities,Power Generation
+CS,Credit Suisse Group American Depositary Shares,Finance,Investment Bankers/Brokers/Service
+KMI,Kinder Morgan Inc. Common Stock,Public Utilities,Natural Gas Distribution
+ZBH,Zimmer Biomet Holdings Inc. Common Stock,Health Care,Industrial Specialties
+PPG,PPG Industries Inc. Common Stock,Basic Industries,Paints/Coatings
+PSX,Phillips 66 Common Stock,Energy,Integrated oil Companies
+PAYX,Paychex Inc. Common Stock,Consumer Services,Diversified Commercial Services
+PLUG,Plug Power Inc. Common Stock,Energy,Industrial Machinery/Components
+ANSS,ANSYS Inc. Common Stock,Technology,Computer Software: Prepackaged Software
+ORLY,O'Reilly Automotive Inc. Common Stock,Consumer Services,Other Specialty Stores
+TDG,Transdigm Group Incorporated Transdigm Group Inc. Common Stock,Capital Goods,Military/Government/Technical
+ALL,Allstate Corporation (The) Common Stock,Finance,Property-Casualty Insurers
+SPG,Simon Property Group Inc. Common Stock,Consumer Services,Real Estate Investment Trusts
+CTVA,Corteva Inc. Common Stock ,Consumer Non-Durables,Farming/Seeds/Milling
+MPC,Marathon Petroleum Corporation Common Stock,Energy,Integrated oil Companies
+PRU,Prudential Financial Inc. Common Stock,Finance,Life Insurance
+AFL,AFLAC Incorporated Common Stock,Finance,Accident &Health Insurance
+VFC,V.F. Corporation Common Stock,Consumer Non-Durables,Apparel
+LYB,LyondellBasell Industries NV Ordinary Shares Class A (Netherlands),Basic Industries,Major Chemicals
+EDU,New Oriental Education & Technology Group Inc. Sponsored ADR representing 1 Ordinary Share (Cayman Islands),Consumer Services,Other Consumer Services
+SGEN,Seagen Inc. Common Stock,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+IFF,Internationa Flavors & Fragrances Inc. Common Stock,Basic Industries,Major Chemicals
+ORAN,Orange,Public Utilities,Telecommunications Equipment
+ZTO,ZTO Express (Cayman) Inc. American Depositary Shares each representing one Class A ordinary share.,Transportation,Trucking Freight/Courier Services
+NTR,Nutrien Ltd. Common Shares,Basic Industries,Agricultural Chemicals
+HLT,Hilton Worldwide Holdings Inc. Common Stock ,Consumer Services,Hotels/Resorts
+HSY,The Hershey Company Common Stock,Consumer Non-Durables,Specialty Foods
+YUM,Yum! Brands Inc.,Consumer Services,Restaurants
+MSI,Motorola Solutions Inc. Common Stock,Technology,Radio And Television Broadcasting And Communications Equipment
+LUV,Southwest Airlines Company Common Stock,Transportation,Air Freight/Delivery Services
+IBKR,Interactive Brokers Group Inc. Class A Common Stock,Finance,Investment Bankers/Brokers/Service
+VRSK,Verisk Analytics Inc. Common Stock,Technology,EDP Services
+BBY,Best Buy Co. Inc. Common Stock,Consumer Services,Consumer Electronics/Video Chains
+CNQ,Canadian Natural Resources Limited Common Stock,Energy,Oil & Gas Production
+CHT,Chunghwa Telecom Co. Ltd.,Public Utilities,Telecommunications Equipment
+RPRX,Royalty Pharma plc Class A Ordinary Shares ,Health Care,Major Pharmaceuticals
+DHI,D.R. Horton Inc. Common Stock,Capital Goods,Homebuilding
+SWKS,Skyworks Solutions Inc. Common Stock,Technology,Semiconductors
+ADM,Archer-Daniels-Midland Company Common Stock,Consumer Non-Durables,Packaged Foods
+AFRM,Affirm Holdings Inc. Class A Common Stock,Miscellaneous,Business Services
+W,Wayfair Inc. Class A Common Stock,Consumer Services,Catalog/Specialty Distribution
+LEN,Lennar Corporation Class A Common Stock,Basic Industries,Homebuilding
+PEG,Public Service Enterprise Group Incorporated Common Stock,Public Utilities,Power Generation
+SBAC,SBA Communications Corporation Class A Common Stock,Consumer Services,Real Estate Investment Trusts
+AWK,American Water Works Company Inc. Common Stock,Public Utilities,Water Supply
+BLL,Ball Corporation Common Stock,Consumer Durables,Containers/Packaging
+RMD,ResMed Inc. Common Stock,Health Care,Medical/Dental Instruments
+ES,Eversource Energy (D/B/A) Common Stock,Public Utilities,Electric Utilities: Central
+MCK,McKesson Corporation Common Stock,Health Care,Other Pharmaceuticals
+RSG,Republic Services Inc. Common Stock,Public Utilities,Environmental Services
+ETSY,Etsy Inc. Common Stock,Miscellaneous,Business Services
+WLTW,Willis Towers Watson Public Limited Company Ordinary Shares,Finance,Specialty Insurers
+ZS,Zscaler Inc. Common Stock,Technology,EDP Services
+DFS,Discover Financial Services Common Stock,Finance,Finance: Consumer Services
+GLW,Corning Incorporated Common Stock,Basic Industries,Telecommunications Equipment
+MTD,Mettler-Toledo International Inc. Common Stock,Capital Goods,Biotechnology: Laboratory Analytical Instruments
+BNTX,BioNTech SE American Depositary Share,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+PXD,Pioneer Natural Resources Company Common Stock,Energy,Oil & Gas Production
+ROK,Rockwell Automation Inc. Common Stock,Capital Goods,Industrial Machinery/Components
+NWG,NatWest Group plc American Depositary Shares,Finance,Commercial Banks
+CPRT,Copart Inc. (DE) Common Stock,Consumer Durables,Automotive Aftermarket
+SWK,Stanley Black & Decker Inc. Common Stock,Capital Goods,Industrial Machinery/Components
+SLF,Sun Life Financial Inc. Common Stock,Finance,Life Insurance
+NET,Cloudflare Inc. Class A Common Stock,Technology,Computer Software: Prepackaged Software
+AZO,AutoZone Inc. Common Stock,Consumer Services,Other Specialty Stores
+OTIS,Otis Worldwide Corporation Common Stock ,Energy,Consumer Electronics/Appliances
+TU,Telus Corporation Ordinary Shares,Public Utilities,Telecommunications Equipment
+AME,AMETEK Inc.,Capital Goods,Industrial Machinery/Components
+DAL,Delta Air Lines Inc. Common Stock,Transportation,Air Freight/Delivery Services
+SPLK,Splunk Inc. Common Stock,Technology,Computer Software: Prepackaged Software
+WMB,Williams Companies Inc. (The) Common Stock,Public Utilities,Natural Gas Distribution
+STNE,StoneCo Ltd. Class A Common Shares,Technology,EDP Services
+FAST,Fastenal Company Common Stock,Consumer Services,RETAIL: Building Materials
+LI,Li Auto Inc. American Depositary Shares,Capital Goods,Auto Manufacturing
+SU,Suncor Energy  Inc. Common Stock,Energy,Integrated oil Companies
+KEYS,Keysight Technologies Inc. Common Stock,Capital Goods,Industrial Machinery/Components
+FRC,FIRST REPUBLIC BANK Common Stock,,
+XP,XP Inc. Class A Common Stock,Finance,Investment Bankers/Brokers/Service
+HRL,Hormel Foods Corporation Common Stock,Consumer Non-Durables,Meat/Poultry/Fish
+WEC,WEC Energy Group Inc. Common Stock,Public Utilities,Power Generation
+STT,State Street Corporation Common Stock,Finance,Major Banks
+GMAB,Genmab A/S ADS,Health Care,Major Pharmaceuticals
+VLO,Valero Energy Corporation Common Stock,Energy,Integrated oil Companies
+WELL,Welltower Inc. Common Stock,Consumer Services,Real Estate Investment Trusts
+WY,Weyerhaeuser Company Common Stock,Consumer Services,Real Estate Investment Trusts
+SIVB,SVB Financial Group Common Stock,Finance,Major Banks
+WCN,Waste Connections Inc. Common Shares,Public Utilities,Environmental Services
+COUP,Coupa Software Incorporated Common Stock,Technology,Computer Software: Prepackaged Software
+KKR,KKR & Co. Inc. Common Stock,Finance,Investment Managers
+FTNT,Fortinet Inc. Common Stock,Technology,Computer peripheral equipment
+EC,Ecopetrol S.A. American Depositary Shares,Energy,Oil & Gas Production
+XM,Qualtrics International Inc. Class A Common Stock,Technology,Computer Software: Prepackaged Software
+KR,Kroger Company (The) Common Stock,Consumer Services,Food Chains
+TEF,Telefonica SA Common Stock,Public Utilities,Telecommunications Equipment
+DLTR,Dollar Tree Inc. Common Stock,Consumer Services,Department/Specialty Retail Stores
+WORK,Slack Technologies Inc. Class A Common Stock,Technology,Computer Software: Prepackaged Software
+SIRI,Sirius XM Holdings Inc. Common Stock,Consumer Services,Broadcasting
+YUMC,Yum China Holdings Inc. Common Stock,Consumer Services,Restaurants
+EXAS,Exact Sciences Corporation Common Stock,Health Care,Biotechnology: Commercial Physical & Biological Resarch
+ENPH,Enphase Energy Inc. Common Stock,Technology,Semiconductors
+UMC,United Microelectronics Corporation (NEW) Common Stock,Technology,Semiconductors
+AMP,Ameriprise Financial Inc. Common Stock,Finance,Investment Managers
+ODFL,Old Dominion Freight Line Inc. Common Stock,Transportation,Trucking Freight/Courier Services
+MPLX,MPLX LP Common Units Representing Limited Partner Interests,Energy,Natural Gas Distribution
+TSN,Tyson Foods Inc. Common Stock,Consumer Non-Durables,Meat/Poultry/Fish
+MDB,MongoDB Inc. Class A Common Stock,Technology,Computer Software: Prepackaged Software
+PAYC,Paycom Software Inc. Common Stock,Technology,Computer Software: Prepackaged Software
+FMX,Fomento Economico Mexicano S.A.B. de C.V. Common Stock,Consumer Non-Durables,Beverages (Production/Distribution)
+EQR,Equity Residential Common Shares of Beneficial Interest,Consumer Services,Real Estate Investment Trusts
+TTWO,Take-Two Interactive Software Inc. Common Stock,Technology,Computer Software: Prepackaged Software
+MXIM,Maxim Integrated Products Inc. Common Stock,Technology,Semiconductors
+MT,Arcelor Mittal NY Registry Shares NEW,Basic Industries,Steel/Iron Ore
+DKNG,DraftKings Inc. Class A Common Stock,Consumer Services,Services-Misc. Amusement & Recreation
+MKC,McCormick & Company Incorporated Common Stock,Consumer Non-Durables,Packaged Foods
+ANET,Arista Networks Inc. Common Stock,Technology,Computer Communications Equipment
+AVB,AvalonBay Communities Inc. Common Stock,Consumer Services,Real Estate Investment Trusts
+CCL,Carnival Corporation Common Stock,Consumer Services,Marine Transportation
+NOK,Nokia Corporation Sponsored American Depositary Shares,Technology,Radio And Television Broadcasting And Communications Equipment
+CERN,Cerner Corporation Common Stock,Technology,EDP Services
+RYAAY,Ryanair Holdings plc American Depositary Shares,Transportation,Air Freight/Delivery Services
+YNDX,Yandex N.V. Class A Ordinary Shares,Technology,Computer Software: Programming Data Processing
+CLX,Clorox Company (The) Common Stock,Consumer Durables,Specialty Chemicals
+ED,Consolidated Edison Inc. Common Stock,Public Utilities,Power Generation
+CAJ,Canon Inc. American Depositary Shares,Miscellaneous,Industrial Machinery/Components
+GRMN,Garmin Ltd. Common Stock (Switzerland),Capital Goods,Industrial Machinery/Components
+OXY,Occidental Petroleum Corporation Common Stock,Energy,Oil & Gas Production
+RCI,Rogers Communication Inc. Common Stock,Consumer Services,Television Services
+PCG,Pacific Gas & Electric Co. Common Stock,Public Utilities,Power Generation
+CVAC,CureVac N.V. Ordinary Shares,Health Care,Major Pharmaceuticals
+DTE,DTE Energy Company Common Stock,Public Utilities,Electric Utilities: Central
+FNV,Franco-Nevada Corporation,Basic Industries,Precious Metals
+NDAQ,Nasdaq Inc. Common Stock,Finance,Investment Bankers/Brokers/Service
+TLK,PT Telekomunikasi Indonesia Tbk,Public Utilities,Telecommunications Equipment
+BKR,Baker Hughes Company Class A Common Stock,Energy,Metal Fabrications
+ARE,Alexandria Real Estate Equities Inc. Common Stock,Consumer Services,Real Estate Investment Trusts
+FITB,Fifth Third Bancorp Common Stock,Finance,Major Banks
+CCEP,Coca-Cola European Partners plc Ordinary Shares,Consumer Non-Durables,Beverages (Production/Distribution)
+MGA,Magna International Inc. Common Stock,Capital Goods,Auto Parts:O.E.M.
+VRSN,VeriSign Inc. Common Stock,Technology,EDP Services
+FTV,Fortive Corporation Common Stock ,Capital Goods,Industrial Machinery/Components
+VIPS,Vipshop Holdings Limited American Depositary Shares each representing two ordinary shares,Consumer Services,Catalog/Specialty Distribution
+AJG,Arthur J. Gallagher & Co. Common Stock,Finance,Specialty Insurers
+CBRE,CBRE Group Inc Common Stock Class A,Finance,Real Estate
+O,Realty Income Corporation Common Stock,Consumer Services,Real Estate Investment Trusts
+ZBRA,Zebra Technologies Corporation Class A Common Stock,Technology,Industrial Machinery/Components
+ZI,ZoomInfo Technologies Inc. Class A Common Stock,Technology,Computer Software: Prepackaged Software
+IAC,IAC/InterActiveCorp Common Stock,Consumer Services,Other Consumer Services
+ABC,AmerisourceBergen Corporation Common Stock,Health Care,Other Pharmaceuticals
+LH,Laboratory Corporation of America Holdings Common Stock,Health Care,Medical Specialities
+SYF,Synchrony Financial Common Stock,Finance,Finance: Consumer Services
+VTRS,Viatris Inc. Common Stock,Health Care,Major Pharmaceuticals
+EPAM,EPAM Systems Inc. Common Stock,Technology,EDP Services
+EIX,Edison International Common Stock,Public Utilities,Electric Utilities: Central
+EFX,Equifax Inc. Common Stock,Finance,Finance: Consumer Services
+DB,Deutsche Bank AG Common Stock,Finance,Major Banks
+GSX,GSX Techedu Inc. American Depositary Shares three of which representing two Class A Ordinary Shares,Consumer Services,Other Consumer Services
+UI,Ubiquiti Inc. Common Stock,Technology,Radio And Television Broadcasting And Communications Equipment
